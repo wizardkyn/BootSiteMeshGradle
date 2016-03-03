@@ -1,4 +1,4 @@
-# BootSiteMeshGradleGradle
+# BootSiteMeshGradle
 Spring Boot Web with external Tomcat
 <br>
 JSP with SiteMesh3
